@@ -1,0 +1,3 @@
+[submodule "TestSubModule/Assets/Base"]
+	path = TestSubModule/Assets/Base
+	url = https://github.com/tuananhunity/basegame.git
